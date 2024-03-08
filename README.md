@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Stellar
+### Hi there 👋 my name is Stellar!
 
 <!--
 **sharstellar/sharstellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
